@@ -1,4 +1,4 @@
-# Click'r Backup for Social HUB Automation
+# PTCGP-GPHostBot Auto Host GP
 
 This repository contains a backup scenario created with **Click'r version 3.2.0**. The scenario is designed to automate specific actions within the 'Social HUB' section of PTCGP. Below, you will find instructions for setup and a brief description of the scenario's functionality.
 
