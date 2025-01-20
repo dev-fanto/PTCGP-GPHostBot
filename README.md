@@ -23,7 +23,7 @@ The scenario automates the following workflow:
 
 1. **Cleanup of Friend List:**
 
-   - Scans and removes inactive from the friend list.
+   - Removes all friend from the friend list.
 
 2. **Processing Friend Requests:**
 
