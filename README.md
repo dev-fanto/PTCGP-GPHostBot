@@ -6,8 +6,8 @@ This repository contains a backup scenario created with **Click'r version 3.2.0*
 
 1. **Import the Backup**:
 
-   - Download the provided `.zip` file.
-   - Import the `.zip` file into Click'r as a backup.
+   - Download the provided `PTCGP-GPHostBot.zip` file.
+   - Import the `PTCGP-GPHostBot.zip` file into Click'r as a backup.
 
 2. **Navigate to the 'Social HUB':**
 
