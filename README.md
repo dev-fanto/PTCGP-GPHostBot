@@ -18,8 +18,8 @@ This repository contains a backup scenario created with **Klick'r - Smart AutoCl
 
 #### Import the Backup
 - Download the provided `PTCGP-GPHostBot.zip` file from [this repository](https://github.com/dev-fanto/PTCGP-GPHostBot).
-- Move the smart macro into the Mumu shared folder using the "File Transfer" option in Mumu (default folder: C:\Users\YOUR_USER\Documents\MuMuSharedFolder).
-- Open Klick'r, click the folder icon in the top right to "Import backup," and select the `PTCGP-GPHostBot.zip` file from the `$Mumu12Shared` folder.
+- Move the zip archive into the Mumu shared folder using the "File Transfer" option in Mumu (default folder: C:\Users\YOUR_USER\Documents\MuMuSharedFolder).
+- Open Klick'r, click the folder icon in the top right to "Import backup" and select the `PTCGP-GPHostBot.zip` file from the `$Mumu12Shared` folder.
 
 #### Enable Accessibility Permissions
 - The first time you run the scenario, Klick'r will request permissions. Enable "Display over other apps" again, then go to Accessibility settings and grant Klick'r the required permissions for full control.
@@ -29,7 +29,6 @@ This repository contains a backup scenario created with **Klick'r - Smart AutoCl
 - Press the "Play" button to activate the automation.
 
 ## Scenario Description
-
 The scenario automates the following workflow:
 
 #### Processing Friend Requests
